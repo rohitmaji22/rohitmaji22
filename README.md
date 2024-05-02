@@ -1,4 +1,4 @@
-![logo](https://github.com/rohitmaji22/rohitmaji22/assets/105271259/5c380646-10e3-4b7a-b8d8-7e9ea995a41c.png)
+![logo]([https://github.com/rohitmaji22/rohitmaji22/assets/105271259/5c380646-10e3-4b7a-b8d8-7e9ea995a41c.png](https://github.com/rohitmaji22/rohitmaji22/blob/main/welcome-gradient-banner_361591-1358%20(1).avif))
 
 <h1 align="center">Hi 👋, I'm Rohit Maji</h1>
 <h3 align="center">A passionate software developer from India</h3>
