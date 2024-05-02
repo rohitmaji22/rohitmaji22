@@ -1,3 +1,5 @@
+![logo](![image](https://github.com/rohitmaji22/rohitmaji22/assets/105271259/b48a5899-8720-4442-b0bc-a2818105f33f))
+
 <h1 align="center">Hi 👋, I'm Rohit Maji</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
