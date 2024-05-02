@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Maji</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4189928/screenshots/13274007/media/44720bb0c4def0478388a2cbf0ab7b0a.gif">
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitmaji22&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmaji22" /> </p>
 
 - 📫 How to reach me **majirohit11@gmail.com**
