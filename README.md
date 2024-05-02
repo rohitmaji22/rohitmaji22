@@ -1,6 +1,4 @@
-<img align="center" alt="coding" width="400" src="![image](https://github.com/rohitmaji22/rohitmaji22/assets/105271259/5c380646-10e3-4b7a-b8d8-7e9ea995a41c)
-" /> </p>
-
+![logo](https://github.com/rohitmaji22/rohitmaji22/assets/105271259/5c380646-10e3-4b7a-b8d8-7e9ea995a41c.png)
 
 <h1 align="center">Hi 👋, I'm Rohit Maji</h1>
 <h3 align="center">A passionate software developer from India</h3>
